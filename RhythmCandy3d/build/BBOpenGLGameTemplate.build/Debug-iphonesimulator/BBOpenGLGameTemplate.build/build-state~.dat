@@ -1,553 +1,0 @@
-TBBOpenGLGameTemplate
-v7
-r0
-t312203370.793038
-cCheck dependencies
-cProcessInfoPlistFile /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/Info.plist BBOpenGLGameTemplate-Info.plist
-cCompileXIB /Users/andrew/Documents/iPhone/RhythmCandy3d/MainWindow.xib
-cProcessPCH /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch.gch BBOpenGLGameTemplate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/main.o /Users/andrew/Documents/iPhone/RhythmCandy3d/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBOpenGLGameTemplateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/EAGLView.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBInputViewController.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneController.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneObject.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBMesh.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBMesh.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBButton.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate normal i386
-cGenerateDSYMFile /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app.dSYM /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate
-cTouch /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
-c000000004C494D260000000000000110
-t1279872294
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004BD1CD90000000000026F020
-t1272040848
-s2551840
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004BD1FFC200000000002A96A0
-t1272053698
-s2791072
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004BD1FF9E0000000000001355
-t1272053662
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
-c000000004BD1CF66000000000000094F
-t1272041318
-s2383
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
-c000000004BD1CF660000000000000A61
-t1272041318
-s2657
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
-c000000004BD1CF660000000000009369
-t1272041318
-s37737
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
-c000000004BD1CF660000000000002A42
-t1272041318
-s10818
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-c000000004BD1CF720000000000021BE0
-t1272041330
-s138208
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
-c000000004BD1D01E000000000000007D
-t1272041502
-s125
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c000000004BD1D06900000000001294B0
-t1272041577
-s1217712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004BD20412000000000000098F
-t1272054802
-s2447
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004BD20471000000000222E640
-t1272054897
-s35841600
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
-c000000004C6C30170000000000000110
-t1282158615
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004C5A4DB60000000000295900
-t1280986550
-s2709760
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004C5A4DB0000000000029D580
-t1280986544
-s2741632
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004C5A4DA10000000000001466
-t1280986529
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
-c000000004C5A4E4D000000000000094F
-t1280986701
-s2383
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
-c000000004C5A4E4D0000000000000A61
-t1280986701
-s2657
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
-c000000004C5A4E4D0000000000009369
-t1280986701
-s37737
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
-c000000004C5A4E4D0000000000003C4A
-t1280986701
-s15434
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
-c000000004C5A4E570000000000019D60
-t1280986711
-s105824
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
-c000000004C5A505200000000000000C4
-t1280987218
-s196
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c000000004C5A50EF0000000000154E50
-t1280987375
-s1396304
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004C6241ED00000000000009CD
-t1281507821
-s2509
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004C6242840000000001E228C0
-t1281507972
-s31598784
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/BBOpenGLGameTemplate_Prefix.pch
-c000000004A4AC1B700000000000000D1
-t1246413239
-s209
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBButton.h
-c000000004CEBA0D90000000000000276
-t1290510553
-s630
-i"BBSceneObject.h"
-i"BBMesh.h"
-i"BBSceneController.h"
-i"BBInputViewController.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBButton.m
-c000000004CEBA0B00000000000000AFD
-t1290510512
-s2813
-i"BBButton.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.h
-c000000004CEB846F00000000000002B9
-t1290503279
-s697
-i<UIKit/UIKit.h>
-i"BBButton.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m
-c000000004CEB9F910000000000001016
-t1290510225
-s4118
-i"BBInputViewController.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBMesh.h
-c000000004CEB975700000000000003C8
-t1290508119
-s968
-i<Foundation/Foundation.h>
-i<OpenGLES/EAGL.h>
-i<OpenGLES/ES1/gl.h>
-i<OpenGLES/ES1/glext.h>
-i<QuartzCore/QuartzCore.h>
-i"BBPoint.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBMesh.m
-c000000004CEB9F6600000000000007C0
-t1290510182
-s1984
-i"BBMesh.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBOpenGLGameTemplateAppDelegate.h
-c000000004A4B05F80000000000000169
-t1246430712
-s361
-i<UIKit/UIKit.h>
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBOpenGLGameTemplateAppDelegate.m
-c000000004A4C0931000000000000052B
-t1246497073
-s1323
-i"BBOpenGLGameTemplateAppDelegate.h"
-i"BBInputViewController.h"
-i"EAGLView.h"
-i"BBSceneController.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBPoint.h
-c000000004CEB50C0000000000000014A
-t1290490048
-s330
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.h
-c000000004A4B09F000000000000003DB
-t1246431728
-s987
-i<Foundation/Foundation.h>
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m
-c000000004CEB99250000000000000AA9
-t1290508581
-s2729
-i"BBSceneController.h"
-i"BBInputViewController.h"
-i"EAGLView.h"
-i"BBSceneObject.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneObject.h
-c000000004CEB9B920000000000000326
-t1290509202
-s806
-i<Foundation/Foundation.h>
-i<OpenGLES/EAGL.h>
-i<OpenGLES/ES1/gl.h>
-i<OpenGLES/ES1/glext.h>
-i<QuartzCore/QuartzCore.h>
-i"BBPoint.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneObject.m
-c000000004CEB9B8D0000000000000743
-t1290509197
-s1859
-i"BBSceneObject.h"
-i"BBSceneController.h"
-i"BBInputViewController.h"
-i"BBMesh.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/EAGLView.h
-c000000004A4C5A3A000000000000041F
-t1246517818
-s1055
-i<UIKit/UIKit.h>
-i<OpenGLES/EAGL.h>
-i<OpenGLES/ES1/gl.h>
-i<OpenGLES/ES1/glext.h>
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/EAGLView.m
-c000000004CEB839C00000000000015CE
-t1290503068
-s5582
-i<QuartzCore/QuartzCore.h>
-i<OpenGLES/EAGLDrawable.h>
-i"EAGLView.h"
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/MainWindow.xib
-c000000004A4AC1B70000000000001F5B
-t1246413239
-s8027
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBButton.o
-t1290510570
-s49440
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBInputViewController.o
-t1290510570
-s50004
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBMesh.o
-t1290510570
-s17504
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBOpenGLGameTemplate.LinkFileList
-c000000004CEBA0E7000000000000051C
-t1290510567
-s1308
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o
-t1290510570
-s46124
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneController.o
-t1290510570
-s48576
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneObject.o
-t1290510570
-s19448
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/EAGLView.o
-t1290510570
-s24076
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/main.o
-t1290510569
-s6316
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app
-t1290510570
-s204
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app.dSYM
-t1290510570
-s102
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate
-t1290510570
-s61772
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/Info.plist
-t1290510567
-s676
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/MainWindow.nib
-t1290510568
-s973
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/PkgInfo
-t1290510567
-s8
-
-N/Users/andrew/Documents/iPhone/RhythmCandy3d/main.m
-c000000004A4AC1B70000000000000173
-t1246413239
-s371
-i<UIKit/UIKit.h>
-
-N/var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-adlsgtwiipqtaodnyncuosnhxxge/BBOpenGLGameTemplate_Prefix.pch.gch
-t1290508189
-s15211536
-
-N/var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch.gch
-t1290510569
-s13825936
-
-NBBOpenGLGameTemplate-Info.plist
-c000000004CEB502100000000000003B4
-t1290489889
-s948
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies312203367#312203367#0(0"0(0#1#0"8618160736#0"0#
-
-CCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBButton.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBButton.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s312203370.310735
-e312203370.428407
-r1
-xCompileC
-xbuild/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBButton.o
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBButton.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@71"Compile /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBButton.m312203370#312203370#0(0"0(0#0#63"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBButton.m8616426176#2297"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -include /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch -c /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBButton.m -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBButton.o0#
-
-CCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBInputViewController.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s312203370.066462
-e312203370.193598
-r1
-xCompileC
-xbuild/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBInputViewController.o
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m: In function '-[BBInputViewController screenRectFromMeshRect:atPoint:]':
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:90: warning: format not a string literal and no format arguments
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:91: warning: format not a string literal and no format arguments
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:92: warning: format not a string literal and no format arguments
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:93: warning: format not a string literal and no format arguments
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m: At top level:
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:142: warning: incomplete implementation of class 'BBInputViewController'
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:142: warning: method definition for '-loadView' not found
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:142: warning: method definition for '-touchesDidBegin' not found
-lSLF07#2@84"Compile /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m312203370#312203370#0(1237"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m: In function '-[BBInputViewController screenRectFromMeshRect:atPoint:]':/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:90: warning: format not a string literal and no format arguments/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:91: warning: format not a string literal and no format arguments/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:92: warning: format not a string literal and no format arguments/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:93: warning: format not a string literal and no format arguments/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m: At top level:/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:142: warning: incomplete implementation of class 'BBInputViewController'/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:142: warning: method definition for '-loadView' not found/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m:142: warning: method definition for '-touchesDidBegin' not found8(22@51"Format not a string literal and no format arguments312203370#150#142#0(6@76"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m312203025#90#0#90#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments312203370#292#142#0(6@76"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m312203025#91#0#91#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments312203370#434#142#0(6@76"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m312203025#92#0#92#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments312203370#576#142#0(6@76"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m312203025#93#0#93#0#51"format not a string literal and no format arguments0(23@13"At top level:312203370#718#92#0(6@76"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m312203025#0#0#0#0#0"0(22@58"Incomplete implementation of class 'BBInputViewController'312203370#810#150#0(6@76"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m312203025#142#0#142#0#38"incomplete implementation of class '*'0(22@43"Method definition for '-loadView' not found312203370#960#135#0(6@76"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m312203025#142#0#142#0#35"method definition for '*' not found0(22@50"Method definition for '-touchesDidBegin' not found312203370#1095#142#0(6@76"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m312203025#142#0#142#0#35"method definition for '*' not found0(0#0#76"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m8622968928#2323"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -include /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch -c /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBInputViewController.m -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBInputViewController.o0#
-
-CCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBMesh.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBMesh.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s312203370.263366
-e312203370.382289
-r1
-xCompileC
-xbuild/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBMesh.o
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBMesh.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@69"Compile /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBMesh.m312203370#312203370#0(0"0(0#0#61"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBMesh.m8617878080#2293"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -include /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch -c /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBMesh.m -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBMesh.o0#
-
-CCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBOpenGLGameTemplateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s312203369.945472
-e312203370.066353
-r1
-xCompileC
-xbuild/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBOpenGLGameTemplateAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@94"Compile /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBOpenGLGameTemplateAppDelegate.m312203369#312203370#0(0"0(0#0#86"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBOpenGLGameTemplateAppDelegate.m8627928672#2343"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -include /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch -c /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBOpenGLGameTemplateAppDelegate.m -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBOpenGLGameTemplateAppDelegate.o0#
-
-CCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneController.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s312203370.138228
-e312203370.263264
-r1
-xCompileC
-xbuild/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneController.o
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m: In function '-[BBSceneController updateModel]':
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:69: warning: 'BBInputViewController' may not respond to '-updateInterface'
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:69: warning: (Messages without a matching method signature
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:69: warning: will be assumed to return 'id' and accept
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:69: warning: '...' as arguments.)
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m: In function '-[BBSceneController renderScene]':
-o/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:82: warning: 'BBInputViewController' may not respond to '-renderInterface'
-lSLF07#2@80"Compile /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m312203370#312203370#0(907"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m: In function '-[BBSceneController updateModel]':/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:69: warning: 'BBInputViewController' may not respond to '-updateInterface'/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:69: warning: (Messages without a matching method signature/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:69: warning: will be assumed to return 'id' and accept/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:69: warning: '...' as arguments.)/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m: In function '-[BBSceneController renderScene]':/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m:82: warning: 'BBInputViewController' may not respond to '-renderInterface'3(22@61"'BBInputViewController' may not respond to '-updateInterface'312203370#122#148#0(6@72"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m312201381#69#0#69#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)312203370#270#132#0(6@72"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m312201381#69#0#69#0#0"0(22@61"'BBInputViewController' may not respond to '-renderInterface'312203370#759#148#0(6@72"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m312201381#82#0#82#0#26"'*' may not respond to '*'0(0#0#72"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m8627152832#2315"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -include /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch -c /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneController.m -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneController.o0#
-
-CCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneObject.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneObject.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s312203370.193703
-e312203370.310626
-r1
-xCompileC
-xbuild/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneObject.o
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneObject.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@76"Compile /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneObject.m312203370#312203370#0(0"0(0#0#68"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneObject.m8620311200#2307"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -include /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch -c /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/BBSceneObject.m -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBSceneObject.o0#
-
-CCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/EAGLView.o /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s312203369.998226
-e312203370.138128
-r1
-xCompileC
-xbuild/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/EAGLView.o
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/EAGLView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@71"Compile /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/EAGLView.m312203369#312203370#0(0"0(0#0#63"/Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/EAGLView.m8623478080#2297"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -include /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch -c /Users/andrew/Documents/iPhone/RhythmCandy3d/Classes/EAGLView.m -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/EAGLView.o0#
-
-CCompileC build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/main.o /Users/andrew/Documents/iPhone/RhythmCandy3d/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s312203369.944039
-e312203369.998123
-r1
-xCompileC
-xbuild/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/main.o
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@59"Compile /Users/andrew/Documents/iPhone/RhythmCandy3d/main.m312203369#312203369#0(0"0(0#0#51"/Users/andrew/Documents/iPhone/RhythmCandy3d/main.m8620071424#2281"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -include /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch -c /Users/andrew/Documents/iPhone/RhythmCandy3d/main.m -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/andrew/Documents/iPhone/RhythmCandy3d/MainWindow.xib
-s312203367.907424
-e312203368.847233
-r1
-xCompileXIB
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib312203367#312203368#0(0"0(0#0#59"/Users/andrew/Documents/iPhone/RhythmCandy3d/MainWindow.xib8623539776#601"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/MainWindow.nib /Users/andrew/Documents/iPhone/RhythmCandy3d/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
-
-CGenerateDSYMFile /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app.dSYM /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate
-s312203370.459783
-e312203370.789934
-r1
-xGenerateDSYMFile
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app.dSYM
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate
-lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/BBOpenGLGameTemplate.app.dSYM build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate312203370#312203370#0(0"0(0#0#118"/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate8622585760#440"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app.dSYM0#
-
-CLd /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate normal i386
-s312203370.428510
-e312203370.459667
-r1
-xLd
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate
-xnormal
-xi386
-lSLF07#2@123"Link /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate312203370#312203370#0(0"0(0#0#0"8604339104#1037"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -filelist /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/Objects-normal/i386/BBOpenGLGameTemplate.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework OpenGLES -framework QuartzCore -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/BBOpenGLGameTemplate0#
-
-CProcessInfoPlistFile /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/Info.plist BBOpenGLGameTemplate-Info.plist
-s312203367.861645
-e312203367.907335
-r1
-xProcessInfoPlistFile
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/Info.plist
-xBBOpenGLGameTemplate-Info.plist
-lSLF07#2@39"Process BBOpenGLGameTemplate-Info.plist312203367#312203367#0(0"0(0#0#76"/Users/andrew/Documents/iPhone/RhythmCandy3d/BBOpenGLGameTemplate-Info.plist8621819872#536"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BBOpenGLGameTemplate-Info.plist -genpkginfo /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app/Info.plist0#
-
-CProcessPCH /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-adlsgtwiipqtaodnyncuosnhxxge/BBOpenGLGameTemplate_Prefix.pch.gch BBOpenGLGameTemplate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s312200988.308869
-e312200989.408221
-r1
-xProcessPCH
-x/var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-adlsgtwiipqtaodnyncuosnhxxge/BBOpenGLGameTemplate_Prefix.pch.gch
-xBBOpenGLGameTemplate_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@42"Precompile BBOpenGLGameTemplate_Prefix.pch312200988#312200989#0(0"0(0#0#76"/Users/andrew/Documents/iPhone/RhythmCandy3d/BBOpenGLGameTemplate_Prefix.pch8617466912#2113"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -c /Users/andrew/Documents/iPhone/RhythmCandy3d/BBOpenGLGameTemplate_Prefix.pch -o /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-adlsgtwiipqtaodnyncuosnhxxge/BBOpenGLGameTemplate_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch.gch BBOpenGLGameTemplate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s312203368.847395
-e312203369.943754
-r1
-xProcessPCH
-x/var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch.gch
-xBBOpenGLGameTemplate_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@42"Precompile BBOpenGLGameTemplate_Prefix.pch312203368#312203369#0(0"0(0#0#76"/Users/andrew/Documents/iPhone/RhythmCandy3d/BBOpenGLGameTemplate_Prefix.pch8620072384#2154"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-generated-files.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-own-target-headers.hmap -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-all-target-headers.hmap -iquote /Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/BBOpenGLGameTemplate-project-headers.hmap -F/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/include -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources/i386 -I/Users/andrew/Documents/iPhone/RhythmCandy3d/build/BBOpenGLGameTemplate.build/Debug-iphonesimulator/BBOpenGLGameTemplate.build/DerivedSources -c /Users/andrew/Documents/iPhone/RhythmCandy3d/BBOpenGLGameTemplate_Prefix.pch -o /var/folders/hb/hbrdUM5-EjW4EqOgZASmxE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BBOpenGLGameTemplate_Prefix-ffwsnephzejhvvbzivnwzhyuybuh/BBOpenGLGameTemplate_Prefix.pch.gch0#
-
-CTouch /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app
-s312203370.790026
-e312203370.792993
-r1
-xTouch
-x/Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app
-lSLF07#2@103"Touch /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app312203370#312203370#0(0"0(0#0#0"8618351968#303"    cd /Users/andrew/Documents/iPhone/RhythmCandy3d    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/andrew/Documents/iPhone/RhythmCandy3d/build/Debug-iphonesimulator/BBOpenGLGameTemplate.app0#
-
